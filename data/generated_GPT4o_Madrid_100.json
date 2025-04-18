@@ -1,0 +1,3862 @@
+[
+    {
+        "id": "urn:ngsi-ld:PoI:5",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo del Prado"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "mdprado.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.692127,
+                    40.41378
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "15€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo del Prado es el museo más importante de España y uno de los más prestigiosos del mundo. Alberga una extensa colección de obras de arte europeas que datan del siglo XII al siglo XIX. Destacan las pinturas de Velázquez, Goya, El Bosco, Tiziano y Rubens."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1171
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 870
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:23",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hospital Clínico San Carlos"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.724746,
+                    40.429737
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los principales hospitales de Madrid, conocido por su amplia gama de especialidades médicas y servicios de alta calidad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1679
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1067
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:30",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Instituto de Educación Secundaria (IES) San Isidro"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.71006,
+                    40.414276
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Instituto en el centro de Madrid, con una larga tradición educativa y un enfoque en la excelencia académica."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1544
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1349
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:35",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Estados Unidos"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.689732,
+                    40.431476
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que proporciona servicios consulares y asistencia a ciudadanos estadounidenses en Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 110
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:43",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Churrería Valor"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.709691,
+                    40.419735
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Famosa churrería en el barrio de Chueca, conocida por sus churros y chocolate a la taza de alta calidad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 36
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 35
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:52",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hotel Eurostars Madrid Tower"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708204,
+                    40.464858
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hotel de lujo en la Torre Espacio, con vistas panorámicas de la ciudad y modernas instalaciones."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1166
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 31
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:92",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Puerta del Sol"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "sol.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703834,
+                    40.416947
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Puerta del Sol es una de las plazas más famosas de Madrid. Es el kilómetro cero de las carreteras radiales de España y un lugar lleno de vida y actividad. Aquí se encuentra la famosa estatua del Oso y el Madroño, símbolo de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 99999999999999999
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 29708
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:105",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Cines Callao"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.706257,
+                    40.419346
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Popular cine ubicado en la Gran Vía, conocido por su arquitectura histórica y la proyección de estrenos y eventos especiales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1968
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1316
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:120",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad Camilo José Cela (UCJC)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.702541,
+                    40.418855
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad privada conocida por su innovadora oferta académica y enfoque en el emprendimiento."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1262
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:122",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Sede del Ayuntamiento de Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707419,
+                    40.415058
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Edificio histórico y sede del Ayuntamiento de Madrid, con arquitectura destacada y relevancia histórica."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1270
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1149
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:130",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Teatro Circo Price"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705939,
+                    40.418897
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Teatro y circo en el centro de Madrid, conocido por su programación de espectáculos de circo contemporáneo y eventos especiales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 548
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 475
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:149",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad de Navarra (sede en Madrid)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.712056,
+                    40.441876
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad privada con campus en Madrid, conocida por su enfoque en la formación integral y su excelencia académica."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 247
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:170",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante StreetXO"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703875,
+                    40.41667
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "60-80€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante innovador en el barrio de Salamanca, famoso por su cocina fusión asiática y creativa del chef David Chang."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 523
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:173",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Almudena Cathedral"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.714312,
+                    40.415778
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Impresionante catedral neogótica con vistas al Palacio Real, un lugar emblemático para la fe y la cultura."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 508
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 188
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:176",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Santiago Bernabéu"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "bernabeu.webp"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688344,
+                    40.453054
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "25€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El estadio Santiago Bernabéu es el hogar del Real Madrid, uno de los clubes de fútbol más exitosos del mundo. Con una capacidad de más de 80,000 espectadores, es un lugar imprescindible para los amantes del fútbol."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1158
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 724
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:180",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Sede del Congreso de los Diputados"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711224,
+                    40.418888
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Edificio histórico que alberga la sede del Congreso de los Diputados de España, con relevancia política y arquitectónica."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1270
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 490
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:188",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "El Jardín Botánico"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.69232,
+                    40.411365
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Jardín botánico histórico cerca del Museo del Prado, con una extensa colección de plantas y un entorno tranquilo."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1300
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 278
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:189",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Royal Theatre (Teatro Real)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.713238,
+                    40.416201
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Teatro de ópera y eventos culturales ubicado cerca del Palacio Real, conocido por sus producciones de alto nivel."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 421
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 76
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:205",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Ten con Ten"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.691065,
+                    40.428111
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante de alta gama en el barrio de Salamanca, conocido por su cocina contemporánea y su elegante ambiente."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 60
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:206",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad del Arte"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.731209,
+                    40.435292
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Centro educativo con un enfoque en disciplinas artísticas y culturales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1715
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 642
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:207",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Cebo"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703658,
+                    40.41774
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante de alta cocina con estrella Michelin, ubicado en el barrio de Salamanca, conocido por su menú degustación innovador."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 339
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:208",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Calle de Alcalá"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "Calle_Alcala.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.682319,
+                    40.420986
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Calle de Alcalá es una de las principales arterias de Madrid, conocida por sus edificios históricos, tiendas y restaurantes. Con una longitud de más de 10 km, es una de las calles más largas de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 168
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:213",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Iglesia de Santa María la Real de La Almudena"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711787,
+                    40.414649
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Principal iglesia catedralicia de Madrid, conocida por su imponente fachada neoclásica y su interior decorado."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 741
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 707
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:219",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Mirador del Hotel Riu Plaza España"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.714662,
+                    40.42361
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Mirador en el Hotel Riu Plaza España con vistas panorámicas de 360 grados de Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 524
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 70
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:221",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Colegio San Patricio"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.716416,
+                    40.437287
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Colegio privado en el barrio de Chamartín, conocido por su enfoque académico y programas bilingües."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 109
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:230",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Juzgados de Plaza de Castilla"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703945,
+                    40.463316
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Complejo judicial en la Plaza de Castilla, sede de múltiples juzgados y tribunales en Madrid, importante centro legal de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1563
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1437
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:231",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Jardín de la Plaza de España"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711206,
+                    40.423356
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Espacio verde en la Plaza de España, con zonas ajardinadas y estatuas, ideal para relajarse y disfrutar de las vistas a la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1568
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 633
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:232",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Templo de Debod"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "debod.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.720457,
+                    40.424033
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Templo de Debod es un antiguo templo egipcio que fue desmontado y reconstruido en Madrid. Es uno de los pocos edificios de origen egipcio que se pueden ver fuera de Egipto y ofrece unas vistas impresionantes de la ciudad desde el parque donde se encuentra."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1537
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1536
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:237",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Gran Hotel Inglés"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705546,
+                    40.418346
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hotel histórico en la Gran Vía, conocido por su elegancia y su papel en la historia de la hospitalidad en Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1968
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1250
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:240",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Retaurante El Club Allard"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703894,
+                    40.41879
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante de alta cocina galardonado con dos estrellas Michelin, conocido por su innovador menú degustación."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 585
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:246",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Sobrino de Botín"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708292,
+                    40.415366
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Reconocido restaurante con una tradición de más de 300 años, famoso por su cocina española clásica y su cochinillo asado."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 391
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:255",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Jardín de la Casa de Campo"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.746215,
+                    40.423504
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Extensa área verde y parque urbano, perfecto para caminatas, deportes y disfrutar de la naturaleza en el corazón de Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 754
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 59
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:258",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hospital Universitario 12 de Octubre"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.725803,
+                    40.402122
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los principales hospitales de la ciudad, reconocido por su amplia gama de especialidades médicas y su calidad en la atención."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1679
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 393
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:261",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Discoteca Mondo"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.704279,
+                    40.416838
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Popular discoteca en el barrio de Chueca, conocida por su ambiente vibrante y su programación musical variada."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 281
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:272",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Barrio de Salamanca"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.684026,
+                    40.428155
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Barrio elegante y de alto standing, conocido por sus tiendas de lujo y restaurantes de alta gama."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 644
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:273",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad Francisco de Vitoria"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.762783,
+                    40.451411
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad privada que ofrece una formación centrada en el desarrollo profesional y personal."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 164
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:287",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad Politécnica de Madrid (UPM)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.730761,
+                    40.451415
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Una de las principales universidades técnicas en España, conocida por su excelencia en ingeniería y arquitectura."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 398
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:290",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Cine Capitol"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.704518,
+                    40.420542
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Emblemático cine en la Gran Vía, famoso por su impresionante fachada y su historia en el cine español."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1968
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1873
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:301",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hotel Ritz Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694406,
+                    40.420302
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hotel icónico de lujo en Madrid, famoso por su sofisticación y su excelente ubicación cerca de la Plaza de Cibeles."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1106
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 625
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:308",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Japón"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705679,
+                    40.419467
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que ofrece asistencia a ciudadanos japoneses en Madrid y gestiona asuntos consulares y administrativos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 310
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:311",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Casa de la Moneda"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703745,
+                    40.416855
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Edificio histórico que alberga la Real Casa de la Moneda, donde se producen monedas y billetes y se ofrecen visitas guiadas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 514
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 315
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:320",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad de los Andes"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.710087,
+                    40.418537
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad con una oferta educativa diversificada y un enfoque en el desarrollo académico y profesional."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1268
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:338",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hotel Gran Meliá Palacio de los Duques"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.709142,
+                    40.418569
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hotel de lujo en el centro histórico de Madrid, conocido por su elegancia y su cercanía a los principales puntos turísticos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1979
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 858
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:339",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Bulevar de la Castellana"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694334,
+                    40.453196
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Vía principal en el distrito financiero de Madrid, conocida por sus edificios de oficinas y centros comerciales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1968
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 904
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:341",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante La Tasquita de Enfrente"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708556,
+                    40.415368
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante tradicional en el barrio de La Latina, famoso por su ambiente acogedor y su excelente cocina española."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 218
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:345",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Mirador del Palacio de Cibeles"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.69708,
+                    40.419026
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Mirador ubicado en la terraza del Palacio de Cibeles, con vistas panorámicas de la ciudad y el horizonte de Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 524
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 439
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:358",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Sede de la Universidad Complutense"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.725202,
+                    40.453724
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad pública de prestigio en Madrid, con una amplia oferta académica y de investigación."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 113
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:381",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Botín"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708292,
+                    40.415366
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "18€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los restaurantes más antiguos del mundo, famoso por su cochinillo asado y su ambiente tradicional."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 507
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:382",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palacio de Cibeles"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "Museo_Thyssen-Bornemisza.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.693908,
+                    40.419553
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "2€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palacio de Cibeles, antiguamente conocido como Palacio de Comunicaciones, es la actual sede del Ayuntamiento de Madrid y cuenta con un mirador que ofrece vistas panorámicas de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 524
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 76
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:415",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Teatro María Guerrero"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.709952,
+                    40.419515
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Teatro nacional conocido por su programación de teatro contemporáneo y obras de gran calidad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 548
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 539
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:422",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "El Retiro"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688204,
+                    40.416975
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los parques más emblemáticos de Madrid, conocido por sus amplos jardines, el Estanque Grande y el Palacio de Cristal."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1568
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 109
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:423",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Sede de la Comunidad de Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.709085,
+                    40.415122
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Edificio gubernamental en el centro de Madrid, sede del Gobierno de la Comunidad de Madrid."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1270
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 326
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:426",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Biblioteca del Museo del Prado"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.692643,
+                    40.413283
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Biblioteca especializada en arte, situada en el famoso Museo del Prado, con una colección relacionada con el arte y la historia."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1171
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 165
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:444",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Arco de la Victoria"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.726499,
+                    40.43813
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Monumento emblemático construido para conmemorar la victoria en la Guerra Civil Española, situado en la Ciudad Universitaria."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1374
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 207
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:450",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Instituto de Educación Secundaria (IES) Beatriz Galindo"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708079,
+                    40.411748
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Instituto en el barrio de Argüelles, conocido por su alto nivel académico y su amplia oferta de bachillerato."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 536
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:458",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Reina Sofía"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "museo_reina_sofia.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694159,
+                    40.408665
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "10€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Reina Sofía es el principal museo de arte contemporáneo de Madrid. Alberga una impresionante colección de arte del siglo XX, incluyendo obras maestras de artistas como Pablo Picasso, Salvador Dalí y Joan Miró."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1171
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 187
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:462",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Puerta de Alcalá"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "Puerta_de_Alcala_05.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688917,
+                    40.419561
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Puerta de Alcalá es uno de los monumentos más icónicos de Madrid. Situada en la Plaza de la Independencia, es un punto de referencia histórico y turístico."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1374
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 472
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:476",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Biblioteca Nacional de España"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.692079,
+                    40.424211
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Principal biblioteca del país, con una extensa colección de libros y documentos históricos, y un impresionante edificio."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1270
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 270
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:479",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad Complutense de Madrid (UCM)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.728621,
+                    40.453622
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Una de las universidades más antiguas y prestigiosas de España, con una amplia oferta académica y cultural."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 95
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:500",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Thyssen-Bornemisza"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "Museo_Thyssen-Bornemisza.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.69425,
+                    40.416873
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "13€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Thyssen-Bornemisza alberga una de las colecciones privadas de arte más importantes del mundo, con obras que van desde el Renacimiento hasta el arte moderno."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1171
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 517
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:503",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Discoteca La Riviera"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.710304,
+                    40.420334
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Gran discoteca situada junto al río Manzanares, conocida por sus eventos musicales y conciertos de artistas internacionales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 732
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 706
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:526",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Azotea del Hotel RIU Plaza España"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711,
+                    40.4235
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Azotea en el Hotel RIU Plaza España, con vistas 360 grados de Madrid y un ambiente moderno y vibrante, ideal para tomar algo mientras se admira la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 421
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 25
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:531",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Instituto de Educación Secundaria (IES) José Ortega y Gasset"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.721303,
+                    40.418931
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Instituto en el barrio de Salamanca, conocido por su alto nivel académico y sus programas de formación profesional."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 528
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:533",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Reino Unido"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.689065,
+                    40.422978
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que representa los intereses del Reino Unido en Madrid, ofreciendo asistencia y servicios a ciudadanos británicos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 25
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:537",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Parque del Retiro"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "pdretiro.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6834,
+                    40.41526
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Parque del Retiro es uno de los lugares más emblemáticos de Madrid. Conocido por sus amplios jardines, estanques y monumentos, es un lugar ideal para pasear, hacer deporte o simplemente relajarse. Entre sus principales atracciones se encuentran el Palacio de Cristal, el estanque grande y la estatua del Ángel Caído."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1374
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 523
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:542",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de China"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.71194,
+                    40.419042
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que proporciona servicios consulares a ciudadanos chinos en Madrid, incluyendo visas y asistencia consular."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 315
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:553",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Churrería San Ginés"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711065,
+                    40.416615
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Icónica churrería en el centro de Madrid, famosa por sus churros y chocolate, abierta 24 horas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 36
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 24
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:562",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Real Jardín Botánico"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "Real_Jardin_Botanico_07.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.690597,
+                    40.412631
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "4€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Real Jardín Botánico de Madrid, fundado en el siglo XVIII, alberga una gran variedad de plantas de todo el mundo y es un lugar ideal para disfrutar de la naturaleza en el centro de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1300
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1028
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:566",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Colegio Internacional de Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.710984,
+                    40.426132
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Colegio bilingüe en el barrio de Aravaca, conocido por su currículum internacional y enfoque integral."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 265
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:570",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "FIWARE Research"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.731277,
+                    40.452607
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Centro de investigación en FIWARE ubicado en la Escuela Técnica Superior de Ingenieros de Telecomunicaciones (ETSIT) de la UPM, dedicado a la investigación y desarrollo de tecnologías FIWARE."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 40
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 9
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:580",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Discoteca Kapital"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705634,
+                    40.418326
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Famosa discoteca en el centro de Madrid con múltiples pisos y diferentes ambientes musicales, ideal para una noche de fiesta."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 732
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 288
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:585",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Edificio Telefónica"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703697,
+                    40.419048
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Edificio histórico en la Gran Vía, uno de los primeros rascacielos en Madrid, con visitas guiadas a sus instalaciones."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1968
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1117
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:600",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Calle Gran Vía"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705617,
+                    40.420407
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Una de las principales arterias comerciales de Madrid, famosa por sus teatros, cines y tiendas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 63
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:601",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Barrio de Malasaña"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703313,
+                    40.425658
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Barrio conocido por su ambiente alternativo y vibrante vida nocturna, con numerosos bares y tiendas independientes."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 20
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:610",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Alemania"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.695133,
+                    40.420472
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que proporciona asistencia a ciudadanos alemanes en Madrid y gestiona temas consulares."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 108
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:614",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Calle de Serrano"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "Calle_Serrano.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.686,
+                    40.43
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Calle de Serrano es una de las calles más exclusivas de Madrid, conocida por sus tiendas de lujo, boutiques y restaurantes de alta gama. Es un lugar ideal para ir de compras y disfrutar de la moda y la gastronomía."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 188
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:627",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Catedral de la Almudena"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "image": {
+            "type": "Property",
+            "value": "catedral_almudena.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.714915,
+                    40.415947
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Catedral de la Almudena es la iglesia principal de Madrid y una de las más impresionantes arquitectónicamente. Con su combinación de estilos neogótico y neoclásico, es un lugar de culto y un punto de referencia importante en la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 741
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 608
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:628",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Discoteca Pachá"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707978,
+                    40.416272
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Famosa discoteca con una rica historia en Madrid, conocida por sus fiestas exclusivas y su ambiente lujoso."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 732
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 542
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:632",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Perú"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708845,
+                    40.416373
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que ofrece asistencia y servicios a ciudadanos peruanos en Madrid y gestiona temas consulares."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 285
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:636",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Lúa"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.706521,
+                    40.418043
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante galardonado con una estrella Michelin, ubicado en el barrio de Chamberí, famoso por su cocina innovadora y su presentación de alta calidad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 328
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:639",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Instituto de Educación Secundaria (IES) Gregorio Marañón"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711735,
+                    40.421002
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Instituto en el barrio de Chamberí, con una amplia oferta educativa y un enfoque en el desarrollo integral del alumnado."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 38
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:647",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad de Ciencias Aplicadas"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.727957,
+                    40.433723
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Universidad con programas orientados a la formación profesional en distintas áreas aplicadas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 81
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:655",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad de la Comunicación (Uc)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.712486,
+                    40.429239
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Centro educativo especializado en comunicación, publicidad y relaciones públicas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 440
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 46
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:710",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Liceo de Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703614,
+                    40.420305
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Escuela de prestigio en el centro de Madrid, conocida por su excelencia académica y sus programas educativos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1563
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1154
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:722",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Estadio Santiago Bernabéu"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.714644,
+                    40.453055
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Estadio del Real Madrid, uno de los más grandes y famosos del mundo, con visitas guiadas y una tienda oficial."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 656
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 312
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:759",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Centro de Arte Reina Sofía"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694106,
+                    40.40871
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Museo de arte contemporáneo, hogar del famoso \"Guernica\" de Picasso y una amplia colección de arte moderno."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1171
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 433
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:768",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Plaza Mayor"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "Plaza_Mayor_de_Madrid_06.jpg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707398,
+                    40.415364
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Plaza Mayor es una de las plazas más conocidas y visitadas de Madrid. Rodeada de edificios históricos y con una estatua ecuestre de Felipe III en el centro, es un punto de encuentro popular tanto para turistas como para locales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 444
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 9
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:805",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hospital Universitario Gregorio Marañón"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.701175,
+                    40.418917
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hospital de referencia en Madrid para diversas especialidades médicas, conocido por su atención integral y su labor en investigación."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1679
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1592
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:812",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palacio Real de Madrid"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "image": {
+            "type": "Property",
+            "value": "palacioreal.jpeg"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.714312,
+                    40.41798
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "12€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palacio Real de Madrid, también conocido como el Palacio de Oriente, es la residencia oficial de la Familia Real Española, aunque solo se utiliza para ceremonias de Estado. Con más de 3.000 habitaciones, es uno de los palacios más grandes de Europa y destaca por su impresionante arquitectura y sus lujosos interiores."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1693
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1449
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:870",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Atocha"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.69194,
+                    40.407223
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "varios precios"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La principal estación de tren de Madrid, con conexiones de alta velocidad a diversas ciudades españolas y servicios internacionales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1723
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1562
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:994",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Iglesia de San Francisco el Grande"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711804,
+                    40.411735
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Impresionante iglesia barroca con una gran cúpula y un interior decorado con frescos y esculturas, ubicada en el centro histórico."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 76
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1014",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hotel Ritz"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694406,
+                    40.420302
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Hotel de lujo histórico en Madrid, conocido por su elegancia y servicio de alta calidad, situado cerca de la Plaza de Cibeles."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1106
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 106
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1021",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Instituto de Educación Secundaria (IES) Ramiro de Maeztu"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.710347,
+                    40.424384
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Instituto en el barrio de Chamberí, conocido por su sólido programa académico y actividades culturales."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 128
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1034",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Iglesia de San Andrés"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703873,
+                    40.416074
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Iglesia histórica en el centro de Madrid, conocida por su arquitectura renacentista y su valor histórico."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 741
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 578
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1044",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Venezuela"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705485,
+                    40.418619
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que representa los intereses de Venezuela en Madrid y ofrece servicios a ciudadanos venezolanos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 310
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1046",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante El Cielo"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711396,
+                    40.418059
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante con una estrella Michelin en el barrio de Chamartín, conocido por su cocina de vanguardia."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 105
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1053",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "El Círculo de Bellas Artes"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703426,
+                    40.419079
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Centro cultural con una rica oferta de eventos, exposiciones y actividades artísticas, además de una terraza con vistas panorámicas."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1563
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1116
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1067",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante El Chaflán"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711825,
+                    40.419736
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante de alta gama en el barrio de Chamartín, famoso por su cocina moderna y platos innovadores."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 477
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1068",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Centro Cultural Conde Duque"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711209,
+                    40.422825
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Centro cultural y artístico con una variada programación de eventos, exposiciones y actividades."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1563
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 265
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:1077",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Consulado de Italia"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 2
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703855,
+                    40.421103
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Consulado que representa los intereses de Italia en Madrid y ofrece asistencia a ciudadanos italianos."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 353
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 318
+        }
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": "urn:ngsi-ld:PoI:23",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hospital Clínico San Carlos"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.724746,
+                    40.429737
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los principales hospitales de Madrid, conocido por su amplia gama de especialidades médicas y servicios de alta calidad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1679
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1067
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:170",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante StreetXO"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703875,
+                    40.41667
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "60-80€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante innovador en el barrio de Salamanca, famoso por su cocina fusión asiática y creativa del chef David Chang."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 578
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 523
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:213",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Iglesia de Santa María la Real de La Almudena"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711787,
+                    40.414649
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Principal iglesia catedralicia de Madrid, conocida por su imponente fachada neoclásica y su interior decorado."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 741
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 707
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:230",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Juzgados de Plaza de Castilla"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703945,
+                    40.463316
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Complejo judicial en la Plaza de Castilla, sede de múltiples juzgados y tribunales en Madrid, importante centro legal de la ciudad."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1563
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 1437
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:240",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Retaurante El Club Allard"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703894,
+                    40.41879
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Restaurante de alta cocina galardonado con dos estrellas Michelin, conocido por su innovador menú degustación."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 585
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:246",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Sobrino de Botín"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708292,
+                    40.415366
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Reconocido restaurante con una tradición de más de 300 años, famoso por su cocina española clásica y su cochinillo asado."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 391
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:258",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Hospital Universitario 12 de Octubre"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.725803,
+                    40.402122
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los principales hospitales de la ciudad, reconocido por su amplia gama de especialidades médicas y su calidad en la atención."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1679
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 393
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:287",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Universidad Politécnica de Madrid (UPM)"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.730761,
+                    40.451415
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Una de las principales universidades técnicas en España, conocida por su excelencia en ingeniería y arquitectura."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1760
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 398
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:381",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Restaurante Botín"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708292,
+                    40.415366
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "18€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los restaurantes más antiguos del mundo, famoso por su cochinillo asado y su ambiente tradicional."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 702
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 507
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:422",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "El Retiro"
+        },
+        "relevance": {
+            "type": "Property",
+            "value": 1
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688204,
+                    40.416975
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Uno de los parques más emblemáticos de Madrid, conocido por sus amplos jardines, el Estanque Grande y el Palacio de Cristal."
+        },
+        "capacity": {
+            "type": "Property",
+            "value": 1568
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": 109
+        }
+    }
+]
