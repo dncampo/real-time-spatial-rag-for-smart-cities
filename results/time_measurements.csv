@@ -1,0 +1,211 @@
+index,q_number,prompt,limit,durationCB,duration_GPT4.1 (ms)
+0,1,What can I visit today in Madrid?,10,44.60000001,1693
+1,1,What can I visit today in Madrid?,10,55.29999999701977,4632
+2,1,What can I visit today in Madrid?,10,80.69999998807907,2748
+3,1,What can I visit today in Madrid?,10,48.80000001192093,1122
+4,1,What can I visit today in Madrid?,10,71.70000000298023,5154
+5,1,What can I visit today in Madrid?,10,41.39999999,1367
+6,1,What can I visit today in Madrid?,10,73.89999999,1535
+7,1,What can I visit today in Madrid?,10,42.30000001192093,1514
+8,1,What can I visit today in Madrid?,10,41.70000000298023,1011
+9,1,What can I visit today in Madrid?,10,47.20000000298023,1132
+10,2,What can I visit today in Madrid that costs between 10 and 20€?,10,39.400000005960464,802
+11,2,What can I visit today in Madrid that costs between 10 and 20€?,10,44.79999999701977,735
+12,2,What can I visit today in Madrid that costs between 10 and 20€?,10,49.39999999,631
+13,2,What can I visit today in Madrid that costs between 10 and 20€?,10,34.099999994039536,701
+14,2,What can I visit today in Madrid that costs between 10 and 20€?,10,41.5,851
+15,2,What can I visit today in Madrid that costs between 10 and 20€?,10,46.70000000298023,696
+16,2,What can I visit today in Madrid that costs between 10 and 20€?,10,34.70000000298023,1279
+17,2,What can I visit today in Madrid that costs between 10 and 20€?,10,47.099999994039536,689
+18,2,What can I visit today in Madrid that costs between 10 and 20€?,10,44.400000005960464,872
+19,2,What can I visit today in Madrid that costs between 10 and 20€?,10,38.80000001192093,724
+20,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,34.599999994039536,1501
+21,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,17.400000005960464,830
+22,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,30.299999997019768,1041
+23,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,57.29999999701977,765
+24,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,36.80000001192093,632
+25,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,35.10000001,948
+26,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,34.70000000298023,664
+27,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,40.80000001192093,684
+28,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,48.5,1067
+29,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,10,76.60000001,606
+30,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,20.200000002980232,977
+31,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,23.5,619
+32,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,32.900000005960464,859
+33,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,20.099999994039536,570
+34,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,16.69999998807907,628
+35,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,16.80000001192093,744
+36,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,21.299999997019768,2473
+37,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,18,4254
+38,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,15.599999994039536,693
+39,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,10,24.30000001192093,627
+40,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,27.600000008940697,1215
+41,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,22.100000008940697,918
+42,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,24.399999991059303,1300
+43,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,20.799999997019768,2381
+44,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,29.099999994039536,1043
+45,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,23.599999994039536,3534
+46,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,16.400000005960464,1083
+47,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,39.20000000298023,1226
+48,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,19.200000002980232,1888
+49,5,I want to reccommend to tourist some places that have a high number of attendacy?,10,20.900000005960464,1145
+50,6,Do you know if I can visit Museo del Prado?,10,17.5,787
+51,6,Do you know if I can visit Museo del Prado?,10,24.200000002980232,877
+52,6,Do you know if I can visit Museo del Prado?,10,23.799999997019768,1521
+53,6,Do you know if I can visit Museo del Prado?,10,21.200000002980232,782
+54,6,Do you know if I can visit Museo del Prado?,10,19.299999997019768,777
+55,6,Do you know if I can visit Museo del Prado?,10,23.69999998807907,816
+56,6,Do you know if I can visit Museo del Prado?,10,23.399999991059303,897
+57,6,Do you know if I can visit Museo del Prado?,10,22.399999991059303,869
+58,6,Do you know if I can visit Museo del Prado?,10,22.600000008940697,748
+59,6,Do you know if I can visit Museo del Prado?,10,20.30000001192093,824
+60,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,21.19999998807907,1024
+61,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,23.299999997019768,842
+62,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,28,1849
+63,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,18.900000005960464,761
+64,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,27.5,566
+65,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,30,882
+66,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,25.80000001192093,752
+67,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,22.900000005960464,821
+68,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,33.099999994039536,740
+69,7,Do you know if I can visit the Eiffel Tower in Madrid?,10,30,738
+70,1,What can I visit today in Madrid?,100,31.799999997019768,986
+71,1,What can I visit today in Madrid?,100,29.399999991059303,1961
+72,1,What can I visit today in Madrid?,100,23.099999994039536,767
+73,1,What can I visit today in Madrid?,100,38.400000005960464,713
+74,1,What can I visit today in Madrid?,100,35.400000005960464,965
+75,1,What can I visit today in Madrid?,100,26.099999994039536,894
+76,1,What can I visit today in Madrid?,100,38.900000005960464,2137
+77,1,What can I visit today in Madrid?,100,35.20000000298023,704
+78,1,What can I visit today in Madrid?,100,32.39999999,933
+79,1,What can I visit today in Madrid?,100,26.200000002980232,621
+80,2,What can I visit today in Madrid that costs between 10 and 20€?,100,30.299999997019768,2468
+81,2,What can I visit today in Madrid that costs between 10 and 20€?,100,29.299999997019768,1839
+82,2,What can I visit today in Madrid that costs between 10 and 20€?,100,26.299999997019768,2183
+83,2,What can I visit today in Madrid that costs between 10 and 20€?,100,22.799999997019768,1259
+84,2,What can I visit today in Madrid that costs between 10 and 20€?,100,32.79999999701977,1298
+85,2,What can I visit today in Madrid that costs between 10 and 20€?,100,37,1357
+86,2,What can I visit today in Madrid that costs between 10 and 20€?,100,28.599999994039536,1198
+87,2,What can I visit today in Madrid that costs between 10 and 20€?,100,39.400000005960464,1367
+88,2,What can I visit today in Madrid that costs between 10 and 20€?,100,40.70000000298023,1285
+89,2,What can I visit today in Madrid that costs between 10 and 20€?,100,52.900000005960464,1095
+90,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,30.100000008940697,1458
+91,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,45.599999994039536,1198
+92,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,31.299999997019768,1588
+93,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,37,1111
+94,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,51,976
+95,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,36.599999994039536,1186
+96,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,48.39999999,1769
+97,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,65.29999999701977,1269
+98,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,45.80000001192093,1305
+99,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,100,57.400000005960464,2655
+100,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,39.900000005960464,1168
+101,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,33.599999994039536,1498
+102,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,34.79999999701977,1520
+103,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,41.099999994039536,785
+104,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,37.599999994039536,861
+105,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,60.10000001,1012
+106,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,48,3069
+107,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,44.5,904
+108,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,37.29999999701977,1099
+109,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,100,133.09999999403954,996
+110,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,36,1923
+111,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,29.899999991059303,1251
+112,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,28.5,1407
+113,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,73.70000000298023,1552
+114,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,50.69999998807907,1934
+115,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,69.5,1628
+116,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,53.900000005960464,1526
+117,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,54.60000001,9945
+118,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,41,1406
+119,5,I want to reccommend to tourist some places that have a high number of attendacy?,100,64.59999999403954,3053
+120,6,Do you know if I can visit Museo del Prado?,100,42.900000005960464,1060
+121,6,Do you know if I can visit Museo del Prado?,100,29,870
+122,6,Do you know if I can visit Museo del Prado?,100,27.200000002980232,1202
+123,6,Do you know if I can visit Museo del Prado?,100,27,1078
+124,6,Do you know if I can visit Museo del Prado?,100,53.60000001,1244
+125,6,Do you know if I can visit Museo del Prado?,100,31.200000002980232,1178
+126,6,Do you know if I can visit Museo del Prado?,100,44.70000000298023,1353
+127,6,Do you know if I can visit Museo del Prado?,100,26.599999994039536,945
+128,6,Do you know if I can visit Museo del Prado?,100,46.79999999701977,939
+129,6,Do you know if I can visit Museo del Prado?,100,52.400000005960464,1070
+130,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,44,923
+131,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,53.80000001192093,1280
+132,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,32.900000005960464,1637
+133,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,29.700000002980232,1037
+134,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,55.099999994039536,988
+135,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,43.29999999701977,968
+136,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,100.1000000089407,939
+137,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,86.69999998807907,1182
+138,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,42,1262
+139,7,Do you know if I can visit the Eiffel Tower in Madrid?,100,32.20000000298023,1015
+140,1,What can I visit today in Madrid?,650,67.39999999,13690
+141,1,What can I visit today in Madrid?,650,100,6467
+142,1,What can I visit today in Madrid?,650,120.29999999701975,13064
+143,1,What can I visit today in Madrid?,650,107.40000000596046,16672
+144,1,What can I visit today in Madrid?,650,139,7138
+145,1,What can I visit today in Madrid?,650,87,35602
+146,1,What can I visit today in Madrid?,650,109.8999999910593,11906
+147,1,What can I visit today in Madrid?,650,224.09999999403956,29015
+148,1,What can I visit today in Madrid?,650,144.20000000298023,57480
+149,1,What can I visit today in Madrid?,650,58.20000000298023,42413
+150,2,What can I visit today in Madrid that costs between 10 and 20€?,650,100.70000000298025,11128
+151,2,What can I visit today in Madrid that costs between 10 and 20€?,650,85.5,3814
+152,2,What can I visit today in Madrid that costs between 10 and 20€?,650,113.69999998807909,3036
+153,2,What can I visit today in Madrid that costs between 10 and 20€?,650,60.60000001,3292
+154,2,What can I visit today in Madrid that costs between 10 and 20€?,650,124.09999999403954,3374
+155,2,What can I visit today in Madrid that costs between 10 and 20€?,650,170.79999999701977,3480
+156,2,What can I visit today in Madrid that costs between 10 and 20€?,650,105.09999999403954,3189
+157,2,What can I visit today in Madrid that costs between 10 and 20€?,650,173.20000000298023,3404
+158,2,What can I visit today in Madrid that costs between 10 and 20€?,650,139,3175
+159,2,What can I visit today in Madrid that costs between 10 and 20€?,650,195.5,5380
+160,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,64.59999999403954,5238
+161,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,106.90000000596046,3724
+162,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,132.40000000596046,4129
+163,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,110,3225
+164,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,71.59999999403954,3638
+165,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,127.29999999701975,3198
+166,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,126.79999999701975,4801
+167,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,106.3999999910593,3801
+168,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,157.29999999701977,3335
+169,3,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%?,650,147.70000000298023,3309
+170,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,118.8999999910593,4436
+171,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,160.3999999910593,4197
+172,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,160.8999999910593,3378
+173,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,140.5,3629
+174,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,120.5,3954
+175,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,101.19999998807909,8483
+176,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,119,3655
+177,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,89.29999999701977,3778
+178,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,117.40000000596046,5128
+179,4,What can I visit today in Madrid that is free of charge and has a ratio of occupancy of less than 10%? You will know the occupancy percentage with the ration between the occupancy over the capacity of the PoI.,650,204.09999999403956,4852
+180,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,59.30000001192093,6063
+181,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,102.5,4616
+182,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,146.29999999701977,6179
+183,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,114.59999999403954,5127
+184,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,158.80000001192093,8328
+185,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,190.79999999701977,4641
+186,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,102.20000000298025,5630
+187,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,104.3999999910593,4678
+188,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,146.1000000089407,4914
+189,5,I want to reccommend to tourist some places that have a high number of attendacy?,650,156.79999999701977,4968
+190,6,Do you know if I can visit Museo del Prado?,650,69.69999998807907,3202
+191,6,Do you know if I can visit Museo del Prado?,650,118.29999999701975,2875
+192,6,Do you know if I can visit Museo del Prado?,650,112.29999999701975,4099
+193,6,Do you know if I can visit Museo del Prado?,650,162.6000000089407,3031
+194,6,Do you know if I can visit Museo del Prado?,650,125,2716
+195,6,Do you know if I can visit Museo del Prado?,650,125.6000000089407,2763
+196,6,Do you know if I can visit Museo del Prado?,650,124.3999999910593,2944
+197,6,Do you know if I can visit Museo del Prado?,650,145.1000000089407,3243
+198,6,Do you know if I can visit Museo del Prado?,650,155.40000000596046,4735
+199,6,Do you know if I can visit Museo del Prado?,650,132,2756
+200,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,151.59999999403954,5466
+201,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,106,3706
+202,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,113.3999999910593,3959
+203,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,97.90000000596046,3351
+204,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,72.40000000596046,3360
+205,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,120.79999999701975,3205
+206,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,81.09999999403954,4436
+207,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,123.90000000596046,3635
+208,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,71.5,5134
+209,7,Do you know if I can visit the Eiffel Tower in Madrid?,650,86.20000000298023,4547
