@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PoC Tourism: FIWARE + LLM</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>PoC Tourism: FIWARE + LLM</h1>
+
+<div class="container">
+  <!-- HTML element to hold the map -->
+  <div id="map"></div>
+
+  <div class="chatBot">
+    <header>
+      <h2>FIWARE Chatbot</h2>
+    </header>
+    <ul class="chatbox">
+      <li class="chat-incoming chat">
+        <p>Hey! How can I assist you today?</p>
+      </li>
+    </ul>
+    <div class="chat-input">
+      <textarea id='ttext' rows="0" cols="50" placeholder="Ask a question..."></textarea>
+      <button id="sendBTN">Send</button>
+    </div>
+  <div class="config">
+    <div class="slider">
+      <label for="limit">Limit:</label>
+      <input type="range" id="limit" name="limit" min="1" max="1000" value="10" onchange=window.chatApp.updateMap()>
+      <span id="limitValue"></span>
+    </div>
+  </div>
+  
+</div>
+
+<!-- JavaScript -->
+<script type="text/javascript">
+  function updateLimitValue() {
+    var limit = document.getElementById("limit").value;
+    document.getElementById("limitValue").innerHTML = limit;
+  }
+
+  function setLimitValue(value=10) {
+    document.getElementById("limit").value = value;
+    document.getElementById("limitValue").innerHTML = value;
+  }
+
+  document.getElementById("limit").addEventListener("input", updateLimitValue);
+  document.addEventListener("DOMContentLoaded", function() {
+    setLimitValue(10);
+  });
+</script>
+
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="js/bundle_chatbot.js"></script>
+</body>
+</html>
