@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# app specific references
+map_madrid/
+map/
+node_modules/
+bundle_chatbot.js
+config.js
+.DS_Store
+.env
+.venv/
+.ipynb_checkpoints/
